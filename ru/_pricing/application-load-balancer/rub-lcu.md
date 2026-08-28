@@ -1,3 +1,1 @@
-| Количество | Цена за 1 час, вкл. НДС |
-| --- | --- |
-| Одна ресурсная единица | {{ sku|RUB|alb.balancer.active|string }} |
+.active|string }} |
