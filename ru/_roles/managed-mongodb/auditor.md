@@ -1,1 +1,0 @@
-Роль `managed-mongodb.auditor` позволяет просматривать информацию о [хостах и кластерах Yandex StoreDoc](../../storedoc/concepts/index.md), а также о [квотах](../../storedoc/concepts/limits.md#mmg-quotas) и операциях с ресурсами сервиса Yandex StoreDoc.

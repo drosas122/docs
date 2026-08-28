@@ -1,1 +1,0 @@
-Роль `managed-ytsaurus.auditor` позволяет просматривать информацию о кластерах YTsaurus, а также данные о [квотах](../../managed-ytsaurus/concepts/limits.md#quotas) и операциях с ресурсами сервиса Managed Service for YTsaurus.

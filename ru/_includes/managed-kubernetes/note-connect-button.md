@@ -1,1 +1,0 @@
-Вы также можете посмотреть команду для подключения в [консоли управления]({{ link-console-main }}) на странице кластера в блоке **{{ ui-key.yacloud.k8s.Cluster.CommonInfo.access-section-title_fW4Au }}**.

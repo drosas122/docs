@@ -1,1 +1,0 @@
-_Высокодоступный_ мастер тарифицируется как _региональный_ и отображается в {{ billing-name }} как `Managed Kubernetes. Regional Master - small`.

@@ -1,1 +1,0 @@
-В поле **{{ ui-key.yacloud_billing_account.create-account-wizard.field_person-type }}** выберите `Юридическое лицо или ИП`.

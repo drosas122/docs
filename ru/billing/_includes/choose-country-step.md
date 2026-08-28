@@ -1,1 +1,0 @@
-В поле **{{ ui-key.yacloud_billing_account.create-account-wizard.field_country-code }}** выберите страну, резидентом которой является [плательщик](../concepts/glossary.md#payer).

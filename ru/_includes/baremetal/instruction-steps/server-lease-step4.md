@@ -1,1 +1,0 @@
-В поле **{{ ui-key.yacloud.baremetal.field_server-pool }}** выберите [пул](../../../baremetal/concepts/servers.md#server-pools), из которого будет арендован сервер.

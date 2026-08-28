@@ -1,1 +1,0 @@
-Роль `serverless.workflows.auditor` позволяет просматривать информацию о [рабочих процессах](../../../serverless-integrations/concepts/workflows/workflow.md) и историю их [запусков](../../../serverless-integrations/concepts/workflows/execution.md), а также информацию о [квотах](../../../serverless-integrations/concepts/limits.md#workflows) Yandex Workflows.

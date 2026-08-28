@@ -1,1 +1,0 @@
-В блоке **{{ ui-key.yacloud.baremetal.title_section-server-config }}** выберите подходящую [конфигурацию сервера](../../../baremetal/concepts/server-configurations.md).
