@@ -1,3 +1,0 @@
-# {{ interconnect-name }} partners
-
-
