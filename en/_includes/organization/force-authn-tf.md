@@ -1,1 +1,0 @@
-`force-authn`: When the {{ yandex-cloud }} session expires, your IdP will prompt the user to re-authenticate. This is an optional parameter.

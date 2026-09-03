@@ -1,1 +1,0 @@
-In the **{{ ui-key.yacloud.baremetal.field_server-zone }}** field, select the [availability zone](../../../overview/concepts/geo-scope.md) the server will be leased in.

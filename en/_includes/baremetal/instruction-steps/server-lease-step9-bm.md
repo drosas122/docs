@@ -1,1 +1,0 @@
-Under **{{ ui-key.yacloud.baremetal.title_section-server-private-network }}**, in the **{{ ui-key.yacloud.baremetal.field_subnet-id }}** field, select an existing [private subnet](../../../baremetal/concepts/network.md#private-subnet) or click **{{ ui-key.yacloud.common.create }}** to create a new one.

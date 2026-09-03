@@ -1,1 +1,0 @@
-If you do not have the {{ yandex-cloud }} CLI installed yet, [install and initialize it](../cli/quickstart.md#install).

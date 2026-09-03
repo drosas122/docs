@@ -1,1 +1,0 @@
-There are no limits for {{ websql-full-name }}.

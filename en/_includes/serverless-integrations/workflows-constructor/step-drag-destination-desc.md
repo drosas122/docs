@@ -1,1 +1,0 @@
-You can drag and drop steps into areas marked by the dotted line in the workflow schema, such as **{{ ui-key.yacloud.serverless-workflows.workflow-editor_push-next-block-placeholder-label }}**, etc.
