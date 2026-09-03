@@ -1,1 +1,0 @@
-The `data-catalog.catalogs.auditor` role enables viewing info on catalogs in Data Catalog, [access permissions](../../../iam/concepts/access-control/index.md) granted for them, and the Data Catalog [quotes](../../../metadata-hub/concepts/limits.md#data-catalog-quota).

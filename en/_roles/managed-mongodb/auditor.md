@@ -1,1 +1,0 @@
-The `managed-mongodb.auditor` role allows you to view information about [Yandex StoreDoc hosts and clusters](../../storedoc/concepts/index.md), as well as [quotas](../../storedoc/concepts/limits.md#mmg-quotas) and resource operations for Yandex StoreDoc.
